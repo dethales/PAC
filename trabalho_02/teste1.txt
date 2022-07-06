@@ -1,0 +1,16 @@
+1 1 amarelo
+1 0 laranja
+1 0 vermelho
+1 0 azul
+2 0 rp2 string1
+2 1 rp2 string2
+2 0 rp2 string3
+2 0 rp2 string4
+3 0 rp3 string1
+3 1 rp3 string2
+3 0 rp3 string3
+3 0 rp3 string4
+2 0 rp4 string1
+2 1 rp4 string2
+2 0 rp4 string3
+2 0 rp4 string4

@@ -1,0 +1,5 @@
+Joao 1000000
+Thales 400000
+Joe 300000
+Thales 200000
+Thales 100000
